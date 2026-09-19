@@ -54,5 +54,6 @@ When you power on TimesGate for the first time—or if no Wi-Fi credentials are 
 - Custom Pixel Art: Displays your custom drawings made via the WebUI 16x16 editor.
 - PhotoFrame: Use a microSD card to display JPEG/JPG photographs on the TFT display, including slideshow implementation with automatic image changes every 60 seconds.
 
+#Still Work In Progress... stay tuned!!!
 
 
