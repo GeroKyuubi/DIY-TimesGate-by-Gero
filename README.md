@@ -60,9 +60,7 @@ When you power on TimesGate for the first time—or if no Wi-Fi credentials are 
 <img width="961" height="1280" alt="20" src="https://github.com/user-attachments/assets/e595f9e0-b4e5-4ce9-abb7-b50ebfc450fa" />
 
 
-#Still Work In Progress... stay tuned!!!
-
-#Special thanks to PCBway
+# Special thanks to PCBway
 
 The PCBs for this product are sponsored and produced by PCBWay. As always, their service was amazing and the facbrication as well as the shipping was fast. Because of the all-in-one customs and shipping price the handling of taxes and other fees was very easy.
 
@@ -72,6 +70,19 @@ https://www.pcbway.com/orderonline.aspx
 
 
 <img width="906" height="905" alt="18" src="https://github.com/user-attachments/assets/18a87413-5c91-4a3a-9b31-2643181bf935" />
+
+<img width="882" height="416" alt="image" src="https://github.com/user-attachments/assets/cda30638-01e3-4fb3-86df-1994f95a27f4" />
+
+
+# YouTube
+https://youtu.be/GzR63EFKAmk
+
+# STL
+https://makerworld.com/en/models/3343331-esp32-s3-and-tft-1-69-st7789#profileId-3798803
+
+
+
+# Still Work In Progress... stay tuned!!!
 
 
 
