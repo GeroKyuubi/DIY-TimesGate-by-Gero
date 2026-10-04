@@ -66,7 +66,7 @@ The PCBs for this product are sponsored and produced by PCBWay. As always, their
 
 You can make your own PCB at:
 
-https://www.pcbway.com/orderonline.aspx
+https://pcbway.com/g/4Aojj9
 
 
 <img width="906" height="905" alt="18" src="https://github.com/user-attachments/assets/18a87413-5c91-4a3a-9b31-2643181bf935" />
