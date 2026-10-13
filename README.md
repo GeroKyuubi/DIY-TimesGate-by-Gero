@@ -55,6 +55,8 @@ When you power on TimesGate for the first time—or if no Wi-Fi credentials are 
 - PhotoFrame: Use a microSD card to display JPEG/JPG photographs on the TFT display, including slideshow implementation with automatic image changes every 60 seconds.
 - Wellness Clock: Set your city once and get a live local clock — plus gentle on-screen reminders to drink water (every hour), rest your eyes (every 30 min), and stretch (every 90 min), each with its own blinking icon so you can't miss it.
 
+<img width="1280" height="961" alt="1" src="https://github.com/user-attachments/assets/72189f02-9d45-4b5c-92a6-4a659d6654b5" />
+
 <img width="1280" height="961" alt="2 5" src="https://github.com/user-attachments/assets/9d1c54ee-4672-47ad-9680-4cc54d6bd6d3" />
 
 <img width="961" height="1280" alt="20" src="https://github.com/user-attachments/assets/e595f9e0-b4e5-4ce9-abb7-b50ebfc450fa" />
