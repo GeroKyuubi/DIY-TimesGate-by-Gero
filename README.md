@@ -68,6 +68,7 @@ You can make your own PCB at:
 
 https://pcbway.com/g/4Aojj9
 
+<img width="1280" height="961" alt="3 PCB latoA" src="https://github.com/user-attachments/assets/d359ec69-8568-4bef-81cf-a2e34a44f909" />
 
 <img width="906" height="905" alt="18" src="https://github.com/user-attachments/assets/18a87413-5c91-4a3a-9b31-2643181bf935" />
 
@@ -79,6 +80,7 @@ https://youtu.be/GzR63EFKAmk
 
 # STL
 https://makerworld.com/en/models/3343331-esp32-s3-and-tft-1-69-st7789#profileId-3798803
+https://makerworld.com/en/models/3434748-diy-timesgate#profileId-3916315
 
 
 
