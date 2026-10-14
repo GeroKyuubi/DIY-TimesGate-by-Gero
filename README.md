@@ -82,6 +82,8 @@ https://pcbway.com/g/4Aojj9
 # YouTube
 https://youtu.be/GzR63EFKAmk
 
+https://youtu.be/NMMNuCBsxi4
+
 # STL
 https://makerworld.com/en/models/3343331-esp32-s3-and-tft-1-69-st7789#profileId-3798803
 https://makerworld.com/en/models/3434748-diy-timesgate#profileId-3916315
