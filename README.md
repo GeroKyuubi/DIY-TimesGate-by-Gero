@@ -63,6 +63,8 @@ When you power on TimesGate for the first time—or if no Wi-Fi credentials are 
 
 
 # Special thanks to PCBway
+<img width="190" height="60" alt="PCBwayLogo" src="https://github.com/user-attachments/assets/36e288e9-a43e-4c37-b82c-c58afb56bfa1" />
+
 
 The PCBs for this product are sponsored and produced by PCBWay. As always, their service was amazing and the facbrication as well as the shipping was fast. Because of the all-in-one customs and shipping price the handling of taxes and other fees was very easy.
 
